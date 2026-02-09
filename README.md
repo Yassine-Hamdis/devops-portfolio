@@ -28,9 +28,10 @@ I am a DevOps & Cloud engineer with experience in:
 | CI/CD | GitHub Actions & Jenkins pipelines for build, test, and deploy | [ci-cd/](https://github.com/Yassine-Hamdis/jenkins-for-java-maven-app) |
 | Terraform | VPC, Subnets, EKS, EFS, and other AWS infra | [terraform](https://github.com/Yassine-Hamdis/terraform) |
 | Ansible | Server provisioning, Docker installation, configuration management | [ansible/](https://github.com/Yassine-Hamdis/ansible) |
-| Monitoring | Prometheus, Grafana dashboards, Alertmanager setup | [monitoring/](https://github.com/Yassine-Hamdis/Prometheus/tree/main/monitoring) |
-| python_automation | automate and monitor AWS infrastructure components using Boto3 | [automation/](https://github.com/Yassine-Hamdis/python_automation) |
-| gitAction | Deploy a Docker image to AWS ECR and run on ECS  | [terraform](https://github.com/Yassine-Hamdis/FastAPI-gitAction-pdfSummary/tree/aws-ecr) |
+| Monitoring Micro-App | Prometheus, Grafana dashboards, Alertmanager setup | [monitoring microservi](https://github.com/Yassine-Hamdis/Prometheus/tree/main/monitoring) |
+| Monitoring nodejsApp | exposing metrics on /metrics endpoint | [monitoring ](https://github.com/Yassine-Hamdis/Prometheus/tree/main/nodejs-app-monitoring) |
+| Python_automation | automate and monitor AWS infrastructure components using Boto3 | [automation/](https://github.com/Yassine-Hamdis/python_automation) |
+| GitAction | Deploy a Docker image to AWS ECR and run on ECS  | [gitAction](https://github.com/Yassine-Hamdis/FastAPI-gitAction-pdfSummary/tree/aws-ecr) |
 
 
 ---

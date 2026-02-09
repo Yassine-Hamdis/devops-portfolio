@@ -13,8 +13,8 @@ I am a DevOps & Cloud engineer with experience in:
 - CI/CD pipelines (GitHub Actions, Jenkins)
 - Infrastructure as Code (Terraform)
 - Configuration management (Ansible)
-- Monitoring & alerting (Prometheus, Grafana)
-- Cloud platforms (AWS, Linode)
+- Monitoring & alerting (Prometheus, Grafana, AlertManager)
+- Cloud platforms (AWS, Linode, DigitalOcean)
 
 ---
 
@@ -22,38 +22,25 @@ I am a DevOps & Cloud engineer with experience in:
 
 | Area | What I Implemented | Folder |
 |------|------------------|--------|
-| Kubernetes | Deploy Java/Spring Boot apps with Deployment, Service, Ingress, ConfigMap, Secrets | [kubernetes/](kubernetes/) |
-| Helm | Helm charts for app packaging and deployment | [helm/](helm/) |
-| GitOps | ArgoCD GitOps workflow with auto-sync | [argocd-gitops/](argocd-gitops/) |
-| CI/CD | GitHub Actions & Jenkins pipelines for build, test, and deploy | [ci-cd/](ci-cd/) |
-| Terraform | VPC, Subnets, EKS, EFS, and other AWS infra | [terraform/](terraform/) |
-| Ansible | Server provisioning, Docker installation, configuration management | [ansible/](ansible/) |
-| Monitoring | Prometheus, Grafana dashboards, Alertmanager setup | [monitoring/](monitoring/) |
-| Architecture Diagrams | CI/CD, GitOps, and Cloud infrastructure visuals | [diagrams/](diagrams/) |
+| Kubernetes | Deploy Java/Spring Boot apps with Deployment, Service, Ingress, ConfigMap, Secrets | [kubernetes-projects](https://github.com/Yassine-Hamdis/KUBERNETES/tree/main/K8s) |
+| Helm | Helm charts for app packaging and deployment | [helm-projects](https://github.com/Yassine-Hamdis/KUBERNETES/tree/main/USING_helm_chart) |
+| GitOps | ArgoCD GitOps workflow with auto-sync | [argocd-gitops](https://github.com/Yassine-Hamdis/Prometheus/tree/main/monitoring) |
+| CI/CD | GitHub Actions & Jenkins pipelines for build, test, and deploy | [ci-cd/](https://github.com/Yassine-Hamdis/jenkins-for-java-maven-app) |
+| Terraform | VPC, Subnets, EKS, EFS, and other AWS infra | [terraform](https://github.com/Yassine-Hamdis/terraform) |
+| Ansible | Server provisioning, Docker installation, configuration management | [ansible/](https://github.com/Yassine-Hamdis/ansible) |
+| Monitoring | Prometheus, Grafana dashboards, Alertmanager setup | [monitoring/](https://github.com/Yassine-Hamdis/Prometheus/tree/main/monitoring) |
+| python_automation | automate and monitor AWS infrastructure components using Boto3 | [automation/](https://github.com/Yassine-Hamdis/python_automation) |
+| gitAction | Deploy a Docker image to AWS ECR and run on ECS  | [terraform](https://github.com/Yassine-Hamdis/FastAPI-gitAction-pdfSummary/tree/aws-ecr) |
+
 
 ---
 
-## Example Projects Using This Stack
-
-- **myBus Project**: Full-stack Java Spring Boot + React Native app deployed on Kubernetes, with CI/CD, monitoring, and GitOps integration.  
-- **Java-Maven App**: Example microservice deployment with Helm & GitHub Actions.  
-
----
-
-## How to Explore
-
-1. Browse folders to see real working configurations.
-2. Open `README.md` in each folder for step-by-step explanations.
-3. Check `diagrams/` for visual understanding of the architecture.
-4. Clone the repo and try deployments locally or in your cloud environment.
-
----
 
 ## Contact / Connect
 
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/)  
-- GitHub: [Your GitHub](https://github.com/)  
-- Email: your.email@example.com
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/yassine-hamdis/)  
+- GitHub: [Your GitHub](https://github.com/Yassine-Hamdis)  
+- Email: hamdisyassine57@gmail.com
 
 ---
 
